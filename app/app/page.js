@@ -1,9 +1,7 @@
-
 import Image from "next/image";
 import cloe from "./cloe.jpg"
-import cloe2 from "./cloe2.jpg";
+import cloe2 from "./cloe2.jpg"
 import bg from "./bg.jpg";
-
 export default function Home() {
   return (
     <div class="flex flex-col bg-gray-100 text-black  max-md:pb-24" role="main">
@@ -12,7 +10,7 @@ export default function Home() {
           <div className="w-[1px] h-[1px] bg-white text-black "></div>
         </div>
         <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#FCE93C] max-md:max-w-full max-md:text-4xl">
-          𝑪𝑳𝑶𝑬
+          𝑪𝑳𝑶𝑬 
         </h1>
 
         <p className="text-center text-zinc-700 pt-2 font-extralight text-sm">
@@ -128,7 +126,7 @@ export default function Home() {
             &gt;
           </div>
           <div class="text-[#FCE93C] text-center w-full  basis-auto">
-            SYSTEM STATUS : IN TRAINING
+            SYSTEM STATUS: IN TRAINING
           </div>
         </div>
       </div>
