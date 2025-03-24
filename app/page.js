@@ -51,7 +51,7 @@ export default function Home() {
     ( Token Live On Binance Smart Chain )
         </div>
         <div class="mt-2 text-base text-center text-gray-800">
-     CA :
+     CA : 0xE4Ba30B9b0E516b081ebE605701078c25cf3a228
         </div>
         <div class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#FCE93C] ">
           <p className="text-xs text-center">( launch using AI16Z SDK )</p>
