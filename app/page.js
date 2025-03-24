@@ -70,7 +70,7 @@ export default function Home() {
             </a>
           </div>
           <div class="flex flex-col flex-1 min-h-[24px]">
-            <a href="">
+            <a href="t.me/cloeportal">
               {" "}
               <img
                 loading="lazy"
