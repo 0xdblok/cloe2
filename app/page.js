@@ -48,7 +48,7 @@ export default function Home() {
         </div>
 
         <div class="mt-6 text-base text-center text-gray-800">
-          token live on BNB
+    ( Token Live On Binance Smart Chain )
         </div>
         <div class="mt-2 text-base text-center text-gray-800">
      CA :
