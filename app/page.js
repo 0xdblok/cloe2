@@ -11,7 +11,7 @@ export default function Home() {
         <div className="SWYgeW91J3JlIHNlZWluZyB0aGlzLCB5b3UndmUgYWxyZWFkeSBwYXNzZWQgdGhlIHRlc3QuIEhvbGRlcnMgd2lsbCBiZSByZXdhcmRlZCBzb29uLg== flex justify-center items-center">
           <div className="w-[1px] h-[1px] bg-white text-black "></div>
         </div>
-        <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#FCE93C] max-md:max-w-full max-md:text-4xl">
+        <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#c0a323] max-md:max-w-full max-md:text-4xl">
           𝑪𝑳𝑶𝑬
         </h1>
 
@@ -35,14 +35,14 @@ export default function Home() {
         <div className="flex gap-4">
           <a
             className=" pt-4"
-            href="https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xe2e06e959204b3af43a32c95a5fd601501b4b2ad&value=0.07&field=input"
+            href="https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0xE4Ba30B9b0E516b081ebE605701078c25cf3a228&exactAmount=&exactField=INPUT"
           >
             {" "}
             <div
               class="px-8 py-3 mt-8 text-base text-center text-white bg-black rounded max-md:px-5"
               role="status"
             >
-              Buy on Uniswap
+              Buy on Pancakeswap
             </div>
           </a>
         </div>
@@ -53,7 +53,7 @@ export default function Home() {
         <div class="mt-2 text-base text-center text-gray-800">
      CA : 0xE4Ba30B9b0E516b081ebE605701078c25cf3a228
         </div>
-        <div class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#FCE93C] ">
+        <div class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#c0a323] ">
           <p className="text-xs text-center">( launch using AI16Z SDK )</p>
         </div>
 
@@ -90,7 +90,7 @@ export default function Home() {
             &gt;
           </div>
           <div
-            class="text-center  text-[#FCE93C]
+            class="text-center  text-[#c0a323]
       "
           >
             INITIALIZING STARTUP SEQUENCE...
@@ -127,7 +127,7 @@ export default function Home() {
           <div class="my-auto text-gray-500" aria-hidden="true">
             &gt;
           </div>
-          <div class="text-[#FCE93C] text-center w-full  basis-auto">
+          <div class="text-[#c0a323] text-center w-full  basis-auto">
             SYSTEM STATUS : IN TRAINING
           </div>
         </div>
